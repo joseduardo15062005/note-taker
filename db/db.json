@@ -1,7 +1,9 @@
-[
+{
+  "notes": [
     {
-        "id":1,
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "First Note",
+      "text": "this is a new note.",
+      "id": "65c6406b-8f3c-4702-826f-08722bab5a93"
     }
-]
+  ]
+}
